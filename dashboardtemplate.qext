@@ -1,0 +1,15 @@
+{
+	"type": "mashup",
+	"name": "dashboardtemplate",
+	"description": "recouvrement mashup",
+	"homepage": "",
+	"author": "Lina & Emna",
+	"version": "1.0.0",
+	"keywords": "qlik-sense, mashup, dashboard",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
+
